@@ -11,12 +11,14 @@ To Do:
 
 > Curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps
 
-[Gitcoin's Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport): Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
+[Gitcoin Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport): Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
 
 ## Contents
 
 - [Section](#section)
 - [Another Section](#another-section)
+
+Legend: 📝 Blog Posts · 🎥 Video · 💡 Examples · 📖 Docs · 🔧 Tools · · 🔊 Podcasts
 
 ## Featured
 
@@ -27,6 +29,10 @@ To Do:
 - A good introductory video on what passports is?
 
 Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#featured-new-releases -->
+
+- [📝 Introducing Passport - Digital Identity as a Public Good](https://go.gitcoin.co/blog/intro-to-passport): Introducing Passports and Stamps
+- [📝 Gitcoin Passport <> Snapshot: Making DAO coordination more secure](https://go.gitcoin.co/blog/gitcoin-passport-snapshot-making-dao-coordination-more-secure): Protect your DAO from sybil voting attacks by using Passports with Snapshot and the Quadratic Voting strategy.
+- [🎥 Defend Quadratic Funding Against Sybil Attacks](https://www.youtube.com/watch?v=v1Dm7FI2AdU): What are Sybil attacks and how does Passport help you defend your community against them.
 
 ## Official Docs and Quickstarts
 
