@@ -18,8 +18,6 @@ To Do:
 - [Section](#section)
 - [Another Section](#another-section)
 
-Legend: 📝 Blog Posts · 🎥 Video · 💡 Examples · 📖 Docs · 🔧 Tools · · 🔊 Podcasts
-
 ## Featured
 
 <!-- Inspired by the Awesome Firebase list
@@ -30,9 +28,9 @@ Legend: 📝 Blog Posts · 🎥 Video · 💡 Examples · 📖 Docs · 🔧 Tool
 
 Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#featured-new-releases -->
 
-- [📝 Introducing Passport - Digital Identity as a Public Good](https://go.gitcoin.co/blog/intro-to-passport): Introducing Passports and Stamps
-- [📝 Gitcoin Passport <> Snapshot: Making DAO coordination more secure](https://go.gitcoin.co/blog/gitcoin-passport-snapshot-making-dao-coordination-more-secure): Protect your DAO from sybil voting attacks by using Passports with Snapshot and the Quadratic Voting strategy.
-- [🎥 Defend Quadratic Funding Against Sybil Attacks](https://www.youtube.com/watch?v=v1Dm7FI2AdU): What are Sybil attacks and how does Passport help you defend your community against them.
+- [Introducing Passport - Digital Identity as a Public Good](https://go.gitcoin.co/blog/intro-to-passport): Introducing Passports and Stamps
+- [Gitcoin Passport <> Snapshot: Making DAO coordination more secure](https://go.gitcoin.co/blog/gitcoin-passport-snapshot-making-dao-coordination-more-secure): Protect your DAO from sybil voting attacks by using Passports with Snapshot and the Quadratic Voting strategy.
+- [Defend Quadratic Funding Against Sybil Attacks](https://www.youtube.com/watch?v=v1Dm7FI2AdU): What are Sybil attacks and how does Passport help you defend your community against them.
 
 ## Official Docs and Quickstarts
 
@@ -43,6 +41,10 @@ Stripe: https://github.com/Derjyn/awesome-stripe/blob/master/README.md#core-reso
 Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#official-docs--quickstarts
 
 -->
+
+- Documentation
+- Creating Your Passport
+- Getting Startedgg
 
 ## Background
 
