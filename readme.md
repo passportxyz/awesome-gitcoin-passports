@@ -23,7 +23,10 @@ https://github.com/agamm/awesome-developer-first/blob/main/README.md
 
 > Curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps
 
-[Gitcoin Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport): Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
+[Gitcoin
+Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport):
+Protect Your Community From Bots and Bad Actors, all without storing your users’
+personal information.
 
 ## Contents
 
@@ -87,22 +90,19 @@ Resources to help you get started building with Passports.
 
 ### Getting Involved
 
-Interested in getting involved? Join us in [Discord](https://gitcoin.co/discord) and look for the [🛠passport-builders channel](https://discord.com/channels/562828676480237578/986222591096279040).
-
-## Resources
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+Interested in getting involved? Join us in [Discord](https://gitcoin.co/discord)
+and look for the [🛠passport-builders
+channel](https://discord.com/channels/562828676480237578/986222591096279040).
 
 ## Samples
 
 A list of samples for integrating Passports into an application.
 
-- [Create React App](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-reader)
-- [Scaffold Eth](https://github.com/farque65/Scaffold-eth-gitcoin-passport)
-- [Passport Checker (Reference Implementation)](https://github.com/Rask467/passport-checker)
+- [Example Nextjs Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-nextjs-passport-sdk-verifier): Sample Next.js application demonstrating how to use the Passport Verifier.
+- [Example Passport SDK Reader](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-reader): A simple React application demonstrating how to work with the Passport SDK Stamp Reader.
+- [Example Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-verifier): A simple React application demonstrating how to work with the Passport SDK Stamp verifier.
+- [Scaffold Eth](https://github.com/farque65/Scaffold-eth-gitcoin-passport): Scaffold-ETH Passport starter and demo codebase for how to use Passport in a React application.
+- [Passport Checker](https://github.com/Rask467/passport-checker): Community reference application showing what you can do with Passport and how to integrate it into a Next.js application.
 
 ## Tutorials
 
@@ -128,6 +128,7 @@ implementing your own.
 - EthStaker Discord Bot: [Website](https://github.com/remyroy/ethstaker-discord-bot) | [Repo](https://github.com/remyroy/ethstaker-discord-bot)
 - Identity Staking Application: [Website](https://staking.passport.gitcoin.co/) | [Repo](https://github.com/moonshotcollective/id-staking)
 - Passport Lookup Tool: [Website](https://passport-lookup-tool.vercel.app/) | [Repo](https://github.com/moonshotcollective/id-staking-passport-api/tree/reader-api)
+- Scaffold-ETH Gitcoin Passport: [Website](https://lucianhymer.github.io/Scaffold-eth-gitcoin-passport/) | [Repo](https://github.com/farque65/Scaffold-eth-gitcoin-passport)
 
 ## Contribute
 
