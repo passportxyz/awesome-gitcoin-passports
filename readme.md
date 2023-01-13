@@ -1,19 +1,42 @@
+<!--
+To Do:
+- add back to the top links
+- 
+-->
 <div id="top"></div>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-    <img src="./static/passport.svg" alt="Logo" width="350" height="100">
-</div>
 
 # Awesome Gitcoin Passports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of all the awesome resources, case studies, samples, and Stamp implementations related to [Gitcoin's Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport).
+[ <img src="./static/passport.svg" alt="Logo" width="350" height="100" align="right"> ](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport)
+
+> Curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps
+
+[Gitcoin's Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport): Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
 
 ## Contents
 
 - [Section](#section)
 - [Another Section](#another-section)
+
+## Featured
+
+<!-- Inspired by the Awesome Firebase list
+
+- Most recent blog post(s)
+- Passports twitter account?
+- A good introductory video on what passports is?
+
+Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#featured-new-releases -->
+
+## Official Docs and Quickstarts
+
+<!--
+Inspired by the Awesome Stripe list and the Awesome Firebase list
+
+Stripe: https://github.com/Derjyn/awesome-stripe/blob/master/README.md#core-resources
+Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#official-docs--quickstarts
+
+-->
 
 ## Background
 
