@@ -54,6 +54,8 @@ Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#feat
 - [Gitcoin Passport <> Snapshot: Making DAO coordination more secure](https://go.gitcoin.co/blog/gitcoin-passport-snapshot-making-dao-coordination-more-secure): Protect your DAO from sybil voting attacks by using Passports with Snapshot and the Quadratic Voting strategy.
 - [Defend Quadratic Funding Against Sybil Attacks](https://www.youtube.com/watch?v=v1Dm7FI2AdU): What are Sybil attacks and how does Passport help you defend your community against them.
 
+<img src="./static/star-banner.png" alt="Logo">
+
 ([Back to the top](#top))
 
 ## Official Docs and Quickstarts
