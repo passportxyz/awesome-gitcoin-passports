@@ -42,18 +42,40 @@ Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#offi
 
 -->
 
-- Documentation
-- Creating Your Passport
-- Getting Startedgg
+- [Passport Documentation](https://docs.passport.gitcoin.co/)
+- [Creating Your Passport](https://docs.passport.gitcoin.co/gitcoin-guides/creating-your-passport)
+- [Passport SDK: Getting Started](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/getting-started)
 
-## Background
+### Updates
 
-High-level resources to get up to speed on Passports and Stamps.
+Stay up to date with the latest information on Passports.
+
+- [Official Website](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport)
+- [Twitter Account](https://twitter.com/gitcoinpassport)
+- [Official Blog](https://go.gitcoin.co/blog/tag/gitcoin-passport)
+
+### Official Documentation
+
+These are the best places to get started working with Passports.
+
+- [Official Documentation](https://docs.passport.gitcoin.co/)
+- [Creating Your Passport](https://docs.passport.gitcoin.co/gitcoin-guides/creating-your-passport)
+- [Passport SDK: Getting Started](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/getting-started)
+- [Integrating Passports into your dApp](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/integrating-passport-in-your-dapp)
+- [Integrating a new Stamp](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/integrating-a-new-stamp)
+- [FAQ](https://docs.passport.gitcoin.co/gitcoin-guides/faq)
+
+### Getting Started
+
+Resources to help you get started building with Passports.
 
 - [Introducing Passport - Digital Identity as a Public Good](https://go.gitcoin.co/blog/intro-to-passport)
-- [Gitcoin Passport: Identity Verification Built on Ceramic](https://blog.ceramic.network/gitcoin-builds-passport-on-ceramic/)
 - [Introducing Passport (YouTube)](https://www.youtube.com/watch?v=OyGj10pQfLY)
 - [Beginners Guide To Developing With Gitcoin Passport](https://www.youtube.com/watch?v=MP4VnlcjDhk)
+
+### Getting Involved
+
+Interested in getting involved? Join us in [Discord](https://gitcoin.co/discord) and look for the [🛠passport-builders channel](https://discord.com/channels/562828676480237578/986222591096279040).
 
 ## Resources
 
