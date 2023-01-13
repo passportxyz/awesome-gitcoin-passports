@@ -2,6 +2,18 @@
 To Do:
 - add back to the top links
 - 
+
+Inspiration:
+https://github.com/jthegedus/awesome-firebase/blob/main/readme.md
+https://github.com/Derjyn/awesome-stripe/blob/master/README.md
+https://github.com/unicodeveloper/awesome-nextjs/blob/master/README.md
+https://github.com/prayash/awesome-gatsby/blob/master/README.md
+https://github.com/sindresorhus/awesome-nodejs/blob/main/readme.md
+https://github.com/lyqht/awesome-supabase/blob/main/README.md
+https://github.com/testthedocs/awesome-docs/blob/main/README.md
+https://github.com/algolia/awesome-algolia/blob/master/README.md
+https://github.com/sindresorhus/awesome/blob/main/readme.md
+https://github.com/agamm/awesome-developer-first/blob/main/README.md
 -->
 <div id="top"></div>
 
