@@ -96,6 +96,8 @@ Interested in getting involved? Join us in [Discord](https://gitcoin.co/discord)
 and look for the [🛠passport-builders
 channel](https://discord.com/channels/562828676480237578/986222591096279040).
 
+([Back to the top](#top))
+
 ## Samples
 
 A list of samples for integrating Passports into an application.
@@ -106,11 +108,15 @@ A list of samples for integrating Passports into an application.
 - [Scaffold Eth](https://github.com/farque65/Scaffold-eth-gitcoin-passport): Scaffold-ETH Passport starter and demo codebase for how to use Passport in a React application.
 - [Passport Checker](https://github.com/Rask467/passport-checker): Community reference application showing what you can do with Passport and how to integrate it into a Next.js application.
 
+([Back to the top](#top))
+
 ## Tutorials
 
 Tutorials and guides for how to work with Passports.
 
 - [Integrating Passport in your DApp](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/integrating-passport-in-your-dapp)
+
+([Back to the top](#top))
 
 ## Stamp Implementations
 
@@ -125,6 +131,8 @@ implementing your own.
 - [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94)
 - [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126)
 
+([Back to the top](#top))
+
 ## Project Showcase
 
 - EthStaker Discord Bot: [Website](https://github.com/remyroy/ethstaker-discord-bot) | [Repo](https://github.com/remyroy/ethstaker-discord-bot)
@@ -132,6 +140,10 @@ implementing your own.
 - Passport Lookup Tool: [Website](https://passport-lookup-tool.vercel.app/) | [Repo](https://github.com/moonshotcollective/id-staking-passport-api/tree/reader-api)
 - Scaffold-ETH Gitcoin Passport: [Website](https://lucianhymer.github.io/Scaffold-eth-gitcoin-passport/) | [Repo](https://github.com/farque65/Scaffold-eth-gitcoin-passport)
 
+([Back to the top](#top))
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+([Back to the top](#top))
