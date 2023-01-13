@@ -47,6 +47,8 @@ Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#feat
 - [Gitcoin Passport <> Snapshot: Making DAO coordination more secure](https://go.gitcoin.co/blog/gitcoin-passport-snapshot-making-dao-coordination-more-secure): Protect your DAO from sybil voting attacks by using Passports with Snapshot and the Quadratic Voting strategy.
 - [Defend Quadratic Funding Against Sybil Attacks](https://www.youtube.com/watch?v=v1Dm7FI2AdU): What are Sybil attacks and how does Passport help you defend your community against them.
 
+([Back to the top](#top))
+
 ## Official Docs and Quickstarts
 
 <!--
@@ -100,7 +102,7 @@ A list of samples for integrating Passports into an application.
 
 - [Example Nextjs Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-nextjs-passport-sdk-verifier): Sample Next.js application demonstrating how to use the Passport Verifier.
 - [Example Passport SDK Reader](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-reader): A simple React application demonstrating how to work with the Passport SDK Stamp Reader.
-- [Example Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-verifier): A simple React application demonstrating how to work with the Passport SDK Stamp verifier.
+- [Example Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-verifier): A simple React application demonstrating how to work with the Passport SDK Stamp Verifier.
 - [Scaffold Eth](https://github.com/farque65/Scaffold-eth-gitcoin-passport): Scaffold-ETH Passport starter and demo codebase for how to use Passport in a React application.
 - [Passport Checker](https://github.com/Rask467/passport-checker): Community reference application showing what you can do with Passport and how to integrate it into a Next.js application.
 
