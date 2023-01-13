@@ -7,11 +7,11 @@ To Do:
 
 # Awesome Gitcoin Passports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[ <img src="./static/passport.svg" alt="Logo" width="350" height="100" align="right"> ](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport){:target="_blank" rel="noopener"}
+[ <img src="./static/passport.svg" alt="Logo" width="350" height="100" align="right"> ](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport)
 
 > Curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps
 
-[Gitcoin's Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport){:target="_blank" rel="noopener"}: Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
+[Gitcoin's Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport): Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
 
 ## Contents
 
