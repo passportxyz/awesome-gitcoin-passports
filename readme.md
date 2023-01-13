@@ -5,13 +5,13 @@ To Do:
 -->
 <div id="top"></div>
 
-# Awesome Gitcoin Passports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Gitcoin Passports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re){:target="_blank" rel="noopener"}
 
-[ <img src="./static/passport.svg" alt="Logo" width="350" height="100" align="right"> ](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport)
+[ <img src="./static/passport.svg" alt="Logo" width="350" height="100" align="right"> ](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport){:target="_blank" rel="noopener"}
 
 > Curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps
 
-[Gitcoin's Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport): Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
+[Gitcoin's Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport){:target="_blank" rel="noopener"}: Protect Your Community From Bots and Bad Actors. Without storing your users’ personal information.
 
 ## Contents
 
