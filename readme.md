@@ -1,7 +1,7 @@
 <!--
 To Do:
-- add back to the top links
 - 
+
 
 Inspiration:
 https://github.com/jthegedus/awesome-firebase/blob/main/readme.md
@@ -23,15 +23,22 @@ https://github.com/agamm/awesome-developer-first/blob/main/README.md
 
 > Curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps
 
-[Gitcoin
-Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport):
-Protect Your Community From Bots and Bad Actors, all without storing your users’
+[Gitcoin Passport](https://go.gitcoin.co/passport?utm_source=awesome-passports&utm_medium=referral&utm_content=Passport): Protect Your Community From Bots and Bad Actors, all without storing your users’
 personal information.
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Featured](#featured)
+- [Official Docs and Quickstarts](#official-docs-and-quickstarts)
+  - [Updates](#updates)
+  - [Official Documentation](#official-documentation)
+  - [Getting Started](#getting-started)
+  - [Getting Involved](#getting-involved)
+- [Samples](#samples)
+- [Tutorials](#tutorials)
+- [Stamp Implementations](#stamp-implementations)
+- [Project Showcase](#project-showcase)
+- [Contribute](#contribute)
 
 ## Featured
 
