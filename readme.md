@@ -53,6 +53,8 @@ Firebase: https://github.com/jthegedus/awesome-firebase/blob/main/readme.md#feat
 - [Introducing Passport - Digital Identity as a Public Good](https://go.gitcoin.co/blog/intro-to-passport): Introducing Passports and Stamps
 - [Gitcoin Passport <> Snapshot: Making DAO coordination more secure](https://go.gitcoin.co/blog/gitcoin-passport-snapshot-making-dao-coordination-more-secure): Protect your DAO from sybil voting attacks by using Passports with Snapshot and the Quadratic Voting strategy.
 - [Defend Quadratic Funding Against Sybil Attacks](https://www.youtube.com/watch?v=v1Dm7FI2AdU): What are Sybil attacks and how does Passport help you defend your community against them.
+- [Beginners Guide to Developing with Gitcoin Passports (video)](https://www.youtube.com/watch?v=MP4VnlcjDhk)
+- [Overview of Gitcoin Passport with Kevin Olsen (video)](https://www.youtube.com/watch?v=UGYixVLwzrw)
 
 <img src="./static/star-banner.png" alt="Logo">
 
@@ -124,6 +126,7 @@ A list of samples for integrating Passports into an application.
 Tutorials and guides for how to work with Passports.
 
 - [Integrating Passport in your DApp](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/integrating-passport-in-your-dapp)
+- [Beginners Guide to Developing with Gitcoin Passports (video)](https://www.youtube.com/watch?v=MP4VnlcjDhk)
 
 ([Back to the top](#top))
 
