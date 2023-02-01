@@ -113,6 +113,8 @@ channel](https://discord.com/channels/562828676480237578/986222591096279040).
 
 A list of samples for integrating Passports into an application.
 
+### Passport SDK
+
 - [Example Nextjs Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-nextjs-passport-sdk-verifier): Sample Next.js application demonstrating how to use the Passport Verifier.
 - [Example Passport SDK Reader](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-reader): A simple React application demonstrating how to work with the Passport SDK Stamp Reader.
 - [Example Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-verifier): A simple React application demonstrating how to work with the Passport SDK Stamp Verifier.
