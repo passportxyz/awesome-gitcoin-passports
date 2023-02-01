@@ -113,6 +113,10 @@ channel](https://discord.com/channels/562828676480237578/986222591096279040).
 
 A list of samples for integrating Passports into an application.
 
+### Scorer API
+
+- [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport): Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
+
 ### Passport SDK
 
 - [Example Nextjs Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-nextjs-passport-sdk-verifier): Sample Next.js application demonstrating how to use the Passport Verifier.
