@@ -116,6 +116,7 @@ A list of samples for integrating Passports into an application.
 ### Scorer API
 
 - [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport): Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
+- [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx): A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
 
 ### Passport SDK
 
