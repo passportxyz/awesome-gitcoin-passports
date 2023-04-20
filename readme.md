@@ -155,6 +155,7 @@ implementing your own.
 
 ## Project Showcase
 
+- Gitcoin Passport Score NFT: [Website](https://passport-score-nft.vercel.app/) | [Repo](https://github.com/wslyvh/nexth/tree/passport-signature-recovery)
 - EthStaker Discord Bot: [Website](https://github.com/remyroy/ethstaker-discord-bot) | [Repo](https://github.com/remyroy/ethstaker-discord-bot)
 - Identity Staking Application: [Website](https://staking.passport.gitcoin.co/) | [Repo](https://github.com/moonshotcollective/id-staking)
 - Passport Lookup Tool: [Website](https://passport-lookup-tool.vercel.app/) | [Repo](https://github.com/moonshotcollective/id-staking-passport-api/tree/reader-api)
