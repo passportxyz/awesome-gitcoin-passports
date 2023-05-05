@@ -28,17 +28,21 @@ personal information.
 
 ## Contents
 
-- [Featured](#featured)
-- [Official Docs and Quickstarts](#official-docs-and-quickstarts)
-  - [Updates](#updates)
-  - [Official Documentation](#official-documentation)
-  - [Getting Started](#getting-started)
-  - [Getting Involved](#getting-involved)
-- [Samples](#samples)
-- [Tutorials](#tutorials)
-- [Stamp Implementations](#stamp-implementations)
-- [Project Showcase](#project-showcase)
-- [Contribute](#contribute)
+- [Awesome Gitcoin Passports ](#awesome-gitcoin-passports-)
+  - [Contents](#contents)
+  - [Featured](#featured)
+  - [Official Docs and Quickstarts](#official-docs-and-quickstarts)
+    - [Updates](#updates)
+    - [Official Documentation](#official-documentation)
+    - [Getting Started](#getting-started)
+    - [Getting Involved](#getting-involved)
+  - [Samples](#samples)
+    - [Scorer API](#scorer-api)
+    - [Passport SDK](#passport-sdk)
+  - [Tutorials](#tutorials)
+  - [Stamp Implementations](#stamp-implementations)
+  - [Project Showcase](#project-showcase)
+  - [Contribute](#contribute)
 
 ## Featured
 
@@ -118,6 +122,12 @@ A list of samples for integrating Passports into an application.
 - [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport): Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
 - [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx): A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
 - [Sybil Form](https://github.com/dabit3/sybil-form): A fully configurable sybil-resistant form built with Gitcoin Passport, Next.js, Arweave, and EXM.
+- [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) A Next.js app demonstrating how to integrate a user's passport score.
+  - [Demo](https://score-showcase.vercel.app/)
+- [Score Gating](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-gating) A Next.js app demonstrating how to gate content.
+  - [Demo](https://score-gating.vercel.app/)
+- [Airdrop](https://github.com/gitcoinco/passport-scorer/tree/main/examples/airdrop) A Next.js app for collecting addresses for an airdrop.
+  - [Demo](https://airdrop-five.vercel.app/)
 
 ### Passport SDK
 
