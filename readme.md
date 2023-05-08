@@ -155,6 +155,7 @@ implementing your own.
 
 ## Project Showcase
 
+- datalatte's survey dApp gated with Gitcoin Passport: [Website](https://datalatte.com/) | [Repo](https://github.com/datalatte-ai)
 - Gitcoin Passport Score NFT: [Website](https://passport-score-nft.vercel.app/) | [Repo](https://github.com/wslyvh/nexth/tree/passport-signature-recovery)
 - EthStaker Discord Bot: [Website](https://github.com/remyroy/ethstaker-discord-bot) | [Repo](https://github.com/remyroy/ethstaker-discord-bot)
 - Identity Staking Application: [Website](https://staking.passport.gitcoin.co/) | [Repo](https://github.com/moonshotcollective/id-staking)
