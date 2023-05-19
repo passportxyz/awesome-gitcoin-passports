@@ -145,6 +145,7 @@ Tutorials and guides for how to work with Passports.
 
 - [Integrating Passport in your DApp](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/integrating-passport-in-your-dapp)
 - [Beginners Guide to Developing with Gitcoin Passports (video)](https://www.youtube.com/watch?v=MP4VnlcjDhk)
+- [Build a Sybil-resistant Gated Airdrop](https://docs.sismo.io/sismo-docs/build-with-sismo-connect/tutorials/onchain-tutorials/tuto)
 
 ([Back to the top](#top))
 
