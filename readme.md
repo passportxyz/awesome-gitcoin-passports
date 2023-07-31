@@ -158,7 +158,6 @@ implementing your own.
 - [ENS Stamp](https://github.com/gitcoinco/passport/pull/71)
 - [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75)
 - [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87)
-- [POAP Stamp](https://github.com/gitcoinco/passport/pull/93)
 - [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94)
 - [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126)
 
